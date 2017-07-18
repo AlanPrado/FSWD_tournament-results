@@ -1,4 +1,4 @@
-#Project: Tournament Results
+# Project: Tournament Results
 
 Build a database schema in postgresql
 that describes a model for Swiss-system tournament.
